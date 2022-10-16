@@ -7,5 +7,4 @@ If you are using Visual Stuio 2019, open the solution OpenGLPAG.sln in the Build
 
 Visual Studio 2019 is recommended and Cmake is necessary.
 
-![image](https://user-images.githubusercontent.com/67733371/196014547-1d2892de-d742-4307-9332-7538f31bdbce.png)
-
+![image](https://user-images.githubusercontent.com/67733371/196014585-326ff8b5-8927-447b-8211-d392678c97d8.png)
